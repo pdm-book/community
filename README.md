@@ -8,12 +8,12 @@ The general philosophy of the book is the following:
 teaching.  A chapter roughly corresponds to the contents of a single
 lecture.
 
-* For the ease of teaching and understanding the material, we may some-
-times cut corners. If we want to give the reader a relatively quick insight
-of a particular result, this sometimes means that we present a weaker form
-of the result than the most general result known in the literature.
-We have been teaching from this book ourselves, but the present version
-will undoubtedly still have errors.
+* For the ease of teaching and understanding the material, we may
+sometimes cut corners. If we want to give the reader a relatively
+quick insight of a particular result, this sometimes means that we
+present a weaker form of the result than the most general result known
+in the literature.  We have been teaching from this book ourselves,
+but the present version will undoubtedly still have errors.
 
 Please let us know if you find any errors in the book, or places that
 you find particularly unclear. The new versions of the book, including
