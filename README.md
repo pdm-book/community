@@ -37,7 +37,7 @@ To cite this work in a publication please use the following:
 @book{ABLMP21,
 	author = {Marcelo Arenas and Pablo Barcel\'o and Leonid Libkin and Wim Martens and Andreas Pieris},
 	title =	 {Principles of Databases},
-	publisher = {Open source at https://github.com/pdm-book/community},
+	publisher = {Open source at \url{https://github.com/pdm-book/community}},
 	year = {2021},
 }
 ```
