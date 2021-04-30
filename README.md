@@ -29,6 +29,10 @@ initial ideas for exercises, but we are aware that the exercises for
 the currently released parts still needs work. We also plan to
 accompany each part with bibliographic remarks.
 
+## Getting a complete copy of the book
+
+Rendering large PDF documents can be problematic on Github, so if you want a full copy of the current version of the book, please download it.
+
 ## Citation
 
 To cite this work in a publication please use the following:
