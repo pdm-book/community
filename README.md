@@ -16,7 +16,8 @@ sometimes cut corners. If we want to give the reader a relatively
 quick insight of a particular result, this sometimes means that we
 present a weaker form of the result than the most general result known
 in the literature.  We have been teaching from this book ourselves,
-but the present version will undoubtedly still have errors.
+but the present version will undoubtedly still have errors. If you
+find some, you can open an issue on Github.
 
 ## Suggestions for improvements
 
