@@ -17,7 +17,7 @@ quick insight of a particular result, this sometimes means that we
 present a weaker form of the result than the most general result known
 in the literature.  We have been teaching from this book ourselves,
 but the present version will undoubtedly still have errors. If you
-find some, you can open an issue on Github.
+find some, you can open an issue on Github and we will look into it.
 
 ## Suggestions for improvements
 
