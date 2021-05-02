@@ -32,7 +32,9 @@ accompany each part with bibliographic remarks.
 
 ## Getting a complete copy of the book
 
-Rendering large PDF documents can be problematic on Github, so if you want a full copy of the current version of the book, please download it.
+Rendering large PDF documents can be problematic on Github. Some browsers
+only show the first 250 pages. If you want a full copy of the current 
+version of the book, please download the full pdf file.
 
 ## Citation
 
