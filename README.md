@@ -2,7 +2,7 @@
 # The book “Principles of Databases”
 
 In this repository, we will be releasing the upcoming book “Principles
-of Databases”, by Marcelo Arenas, Pablo Barcelo, Leonid Libkin, Wim Martens, and Andreas Pieris. 
+of Databases”, by [Marcelo Arenas](https://marceloarenas.cl/), Pablo Barcelo, Leonid Libkin, Wim Martens, and Andreas Pieris. 
 The book will be about the foundational and mathematical
 principles of databases in its various forms. 
 
