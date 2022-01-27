@@ -35,7 +35,7 @@ accompany each part with bibliographic remarks.
 
 Rendering large PDF documents can be problematic on Github. Some browsers
 only show the first 250 pages. If you want a full copy of the current 
-version of the book, please download the full pdf file.
+version of the book, please download the [full pdf file](https://github.com/pdm-book/community/blob/main/pdm-public.pdf).
 
 ## Citation
 
