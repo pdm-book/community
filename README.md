@@ -1,5 +1,5 @@
 
-# The book “Principles of Databases”
+# The book “Database Theory”
 
 In this repository, we will be releasing the upcoming book “Principles
 of Databases”, by [Marcelo Arenas](https://marceloarenas.cl/), [Pablo Barcelo](https://pbarcelo.ing.uc.cl/), [Leonid Libkin](https://homepages.inf.ed.ac.uk/libkin/), [Wim Martens](https://www.theoinf.uni-bayreuth.de/en/team/martens_wim/index.php), and [Andreas Pieris](https://homepages.inf.ed.ac.uk/apieris/). 
@@ -44,7 +44,7 @@ To cite this work in a publication please use the following:
 ```
 @book{ABLMP21,
 	author = {Marcelo Arenas and Pablo Barcel\'o and Leonid Libkin and Wim Martens and Andreas Pieris},
-	title =	 {Principles of Databases},
+	title =	 {Database Theory},
 	publisher = {Open source at \url{https://github.com/pdm-book/community}},
 	year = {2021},
 }
