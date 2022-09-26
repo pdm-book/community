@@ -46,6 +46,6 @@ To cite this work in a publication please use the following:
 	author = {Marcelo Arenas and Pablo Barcel\'o and Leonid Libkin and Wim Martens and Andreas Pieris},
 	title =	 {Database Theory},
 	publisher = {Open source at \url{https://github.com/pdm-book/community}},
-	year = {2021},
+	year = {2022},
 }
 ```
